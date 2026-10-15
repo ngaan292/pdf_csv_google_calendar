@@ -26,7 +26,7 @@ from pdf_csv_calendar import (
 
 # Configuration de la page
 st.set_page_config(
-    page_title="Mom Calendar - PDF vers CSV Calendrier",
+    page_title="Calendar - PDF vers CSV Calendrier",
     page_icon="✈️",
     layout="wide",
     initial_sidebar_state="expanded"
