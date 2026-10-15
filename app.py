@@ -57,7 +57,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # En-tête
-st.markdown('<div class="main-title">✈️ Mom Calendar - Convertisseur de Planning</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">✈️ Calendar - Convertisseur de Planning</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-title">Transformez votre planning de vol PDF en fichier CSV directement importable dans <b>Google Calendar</b>, <b>Outlook</b> et <b>Apple Calendar</b>.</div>', unsafe_allow_html=True)
 
 # Barre latérale : Paramètres globaux
