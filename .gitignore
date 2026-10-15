@@ -1,0 +1,22 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Fichiers temporaires et tests
+test_out.csv
+plus_grand_tableau.csv
+
+# Système d'exploitation
+.DS_Store
+Thumbs.db
